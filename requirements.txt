@@ -1,0 +1,2 @@
+pyecharts~=1.9.1
+pandas~=1.4.3
